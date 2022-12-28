@@ -1,7 +1,7 @@
 ### Hi there 👋 I am, Piyumi Chandrasiri.
 
 
-- 🔭 I’m currently a Software Engineering undergraduate at SLIIT
+- 🔭 I freshly graduated as a Software Engineer from SLIIT.
 - 🌱 I’m currently learning ReactJS, JavaScript
 - 👯 I’m looking to collaborate on Web designing/developing, Mobile application developement
 - 🤔 I have completed my internship training as a software engineer.
