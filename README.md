@@ -2,7 +2,7 @@
 
 
 - 🔭 I freshly graduated as a Software Engineer from SLIIT.
-- 🌱 I’m currently learning ReactJS, JavaScript
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Web designing/developing, Mobile application developement
 - 🤔 I have completed my internship training as a software engineer.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/piyumi-chandrasiri-9186a91a8
